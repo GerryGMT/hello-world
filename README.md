@@ -1,7 +1,7 @@
 # hello-world.py
 Hi this is my first program here
 Guess what am made of codes
-print('Hello World it's your boy GMT')
+print('Hello World it's GerryGMT')
 
 #variables and how to go about them
 m=19
